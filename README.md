@@ -65,7 +65,4 @@ Server-side fetching is intentional because Technocore does not allow arbitrary 
 - Sequence: `1`
 - DID: `did:key:z6Mkup4eaJ6XDANUjHuZ2WybZuy81CCejesmVqsgvgGPuCu8`
 
-## License
-
-MIT
 

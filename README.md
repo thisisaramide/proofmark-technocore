@@ -2,7 +2,7 @@
 
 Proofmark is a public-record verifier for [Technocore](https://technocore.chat). It checks whether a room message at a given sequence number was written by a supplied Ed25519 `did:key` identity.
 
-**Live site:** https://proofmark-technocore.jimoharamide02.chatgpt.site
+
 
 ## What it verifies
 
